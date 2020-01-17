@@ -36,6 +36,7 @@ Partial Class Form1
         'Button1
         '
         Me.Button1.BackColor = System.Drawing.Color.Gray
+        Me.Button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button1.Location = New System.Drawing.Point(49, 39)
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(180, 20)
@@ -45,6 +46,7 @@ Partial Class Form1
         'Button2
         '
         Me.Button2.BackColor = System.Drawing.Color.Gray
+        Me.Button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button2.Location = New System.Drawing.Point(235, 64)
         Me.Button2.Name = "Button2"
         Me.Button2.Size = New System.Drawing.Size(20, 180)
@@ -54,6 +56,7 @@ Partial Class Form1
         'Button3
         '
         Me.Button3.BackColor = System.Drawing.Color.Gray
+        Me.Button3.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button3.Location = New System.Drawing.Point(24, 64)
         Me.Button3.Name = "Button3"
         Me.Button3.Size = New System.Drawing.Size(20, 180)
@@ -63,6 +66,7 @@ Partial Class Form1
         'Button4
         '
         Me.Button4.BackColor = System.Drawing.Color.Gray
+        Me.Button4.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button4.Location = New System.Drawing.Point(49, 244)
         Me.Button4.Name = "Button4"
         Me.Button4.Size = New System.Drawing.Size(180, 20)
@@ -72,6 +76,7 @@ Partial Class Form1
         'Button5
         '
         Me.Button5.BackColor = System.Drawing.Color.Gray
+        Me.Button5.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button5.Location = New System.Drawing.Point(235, 270)
         Me.Button5.Name = "Button5"
         Me.Button5.Size = New System.Drawing.Size(20, 180)
@@ -81,6 +86,7 @@ Partial Class Form1
         'Button6
         '
         Me.Button6.BackColor = System.Drawing.Color.Gray
+        Me.Button6.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button6.Location = New System.Drawing.Point(24, 270)
         Me.Button6.Name = "Button6"
         Me.Button6.Size = New System.Drawing.Size(20, 180)
@@ -90,6 +96,7 @@ Partial Class Form1
         'Button7
         '
         Me.Button7.BackColor = System.Drawing.Color.Gray
+        Me.Button7.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button7.Location = New System.Drawing.Point(49, 454)
         Me.Button7.Name = "Button7"
         Me.Button7.Size = New System.Drawing.Size(180, 20)
